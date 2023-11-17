@@ -1,4 +1,14 @@
 <style>
-body {background-color:yellow;}
-h1 {color:black;}
-p {color:red;}
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: red;
+  font-size: 20px;
+}
